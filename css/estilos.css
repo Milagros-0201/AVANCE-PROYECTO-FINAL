@@ -62,6 +62,13 @@ font-size: 20px;
     height: 100%;
     width: 100%;
   }
+.container_bg
+{
+    background-color: whitesmoke;
+    width: 77%;
+    margin-left: auto;
+    margin-right: auto;
+}
   
   .carousel-inner img {
     height: 100%;
@@ -117,7 +124,30 @@ font-size: 20px;
 .contenido p{
     margin: 50px 0 100px 0;
 }
+.image_central
+{
+    text-align: center;
+    width: 250;
+    height: 250;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid gray;
 
+    
+}
+
+.titulos {    
+    color: #862101;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size:10;
+    width: 100%;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    text-decoration: none;
+    float: left;
+    }
 
 .lista{
     margin: 40px 0;
