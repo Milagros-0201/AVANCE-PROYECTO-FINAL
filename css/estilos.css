@@ -1,0 +1,165 @@
+
+
+
+/* Logo  */
+
+.menu{
+
+    /* background-color:#110538; */
+}
+.container{
+}
+.navbar{
+    background-color:#234A9A !important;
+
+    /* background-color:#110538!important; */
+}
+
+.navbar-brand{
+font-size: 20px;
+}
+.navbar-brand img{
+    width: 35px;
+}
+.navbar-brand span{
+
+}
+.dropdown-menu {
+    background-color: #234A9A;
+}
+.navbar-collapse{
+    display: flex;
+    flex-direction: row-reverse;
+}
+@media only screen and (max-width:990px){
+    .navbar-collapse{
+        display: flex;
+        flex-direction: row;
+    }
+
+}
+.menu a{
+    /* color: white!important; */
+
+    color:white!important;
+}
+
+.carousel{
+    margin-top: 20px;
+}
+
+.texto-acerca-de {
+    /*background: rgba(0,0,0,0.8);*/
+	/* background:#110538; */
+    color: white;
+    padding: 1.875rem;
+}
+
+
+
+
+.container-fluid {
+    height: 100%;
+    width: 100%;
+  }
+.container_bg
+{
+    background-color: whitesmoke;
+    width: 77%;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+  .carousel-inner img {
+    height: 100%;
+    max-height: 550px;
+  }
+
+
+
+
+
+
+.texto-acerca-de{
+    margin-top: 30px;
+    
+}
+
+
+.img_docentes{
+    
+    max-width: 380px;
+}
+#acerca-de > div > blockquote > footer{
+    color: #000;
+    font-weight: bold;
+}
+
+.card-block{
+    padding: 15px;
+}
+
+.texto-acerca-de > h3, p{
+    color: #000;
+}
+
+
+.contenido-seccion{
+    padding: 30px 0;
+}
+
+
+.contenido{
+    margin: 40px 0;
+}
+
+.imagen{
+ width: 100%;
+ height: 500px;
+}
+.imagen img{
+    width: 100%;
+    height: 100%;
+}
+.contenido p{
+    margin: 50px 0 100px 0;
+}
+.image_central
+{
+    text-align: center;
+    width: 250;
+    height: 250;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid gray;
+
+    
+}
+
+.titulos {    
+    color: #862101;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size:10;
+    width: 100%;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    text-decoration: none;
+    float: left;
+    }
+
+.lista{
+    margin: 40px 0;
+}
+
+
+.footer-main {
+    background: #222;
+    color: white;
+    font-size: 0.8rem;
+    padding: 2.5rem 0;
+}
+.footer-main p,h6{
+    color: white;
+}
