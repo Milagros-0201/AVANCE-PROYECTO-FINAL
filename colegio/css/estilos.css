@@ -73,8 +73,12 @@ font-size: 20px;
   }
 .container_bg
 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* min-height: 100vh; */
     background-color: whitesmoke;
-    width: 77%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
