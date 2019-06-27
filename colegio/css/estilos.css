@@ -41,9 +41,18 @@ font-size: 20px;
 .menu a{
     /* color: white!important; */
 
-    color:white!important;
+    color:  white!important;
 }
+.menu a:hover{
+    /* color: white!important; */
 
+    color:  black!important;
+}
+/* .active {
+    background-color:navy;
+    color: white;
+  } */
+  
 .carousel{
     margin-top: 20px;
 }

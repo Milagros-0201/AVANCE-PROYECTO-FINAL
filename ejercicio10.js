@@ -8,7 +8,8 @@ const mime = {
   txt: 'text/plain',
   css: 'text/css',
   gif: 'image/gif',
-  jpg: 'image/jpeg',
+  jpeg: 'image/jpeg',
+  jpg: 'image/jpg',
   png: 'image/png',
   svg: 'image/svg+xml',
   js: 'application/javascript'
